@@ -1,0 +1,14 @@
+D:\net_homeworks\homework_2\Task_2\bin\Debug\net8.0\Task_2.exe
+D:\net_homeworks\homework_2\Task_2\bin\Debug\net8.0\Task_2.deps.json
+D:\net_homeworks\homework_2\Task_2\bin\Debug\net8.0\Task_2.runtimeconfig.json
+D:\net_homeworks\homework_2\Task_2\bin\Debug\net8.0\Task_2.dll
+D:\net_homeworks\homework_2\Task_2\bin\Debug\net8.0\Task_2.pdb
+D:\net_homeworks\homework_2\Task_2\obj\Debug\net8.0\Task_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\net_homeworks\homework_2\Task_2\obj\Debug\net8.0\Task_2.AssemblyInfoInputs.cache
+D:\net_homeworks\homework_2\Task_2\obj\Debug\net8.0\Task_2.AssemblyInfo.cs
+D:\net_homeworks\homework_2\Task_2\obj\Debug\net8.0\Task_2.csproj.CoreCompileInputs.cache
+D:\net_homeworks\homework_2\Task_2\obj\Debug\net8.0\Task_2.dll
+D:\net_homeworks\homework_2\Task_2\obj\Debug\net8.0\refint\Task_2.dll
+D:\net_homeworks\homework_2\Task_2\obj\Debug\net8.0\Task_2.pdb
+D:\net_homeworks\homework_2\Task_2\obj\Debug\net8.0\Task_2.genruntimeconfig.cache
+D:\net_homeworks\homework_2\Task_2\obj\Debug\net8.0\ref\Task_2.dll
